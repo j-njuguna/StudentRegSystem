@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-14T11:41:03" hostname="Joyannes-MacBook-Air.local" time="0.193">
+  <properties/>
+  <testcase name="runTest()" classname="JUnitTest" time="0.193"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
